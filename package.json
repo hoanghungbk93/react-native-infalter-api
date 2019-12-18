@@ -1,0 +1,44 @@
+{
+  "name": "react-native-infalter-api",
+  "title": "React Native Infalter Api",
+  "version": "1.0.0",
+  "description": "Decompress ZLIB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hoanghungbk93/react-native-infalter-api.git",
+    "baseUrl": "https://github.com/hoanghungbk93/react-native-infalter-api"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-inflate",
+    "inflate",
+    "deflate",
+    "gzip",
+    "inflater-api",
+    "inflater",
+    "deflate"
+  ],
+  "author": {
+    "name": "HungHC",
+    "email": "hch.bkhn@gmail.com"
+  },
+  "license": "ITG",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.59.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.8.3",
+    "react-native": "^0.59.10"
+  },
+  "dependencies": {
+    "ramda": "^0.26.1",
+    "superagent": "^5.1.2",
+    "superagent-prefix": "^0.0.2"
+  }
+}
